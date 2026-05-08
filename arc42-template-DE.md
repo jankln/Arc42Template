@@ -21,7 +21,7 @@ contributors. Siehe <https://arc42.org>.
 
 Diese Version des Templates enthält Hilfen und Erläuterungen. Sie dient
 der Einarbeitung in arc42 sowie dem Verständnis der Konzepte. Für die
-Dokumentation eigener System verwenden Sie besser die *plain* Version.
+Dokumentation eigener Systeme verwenden Sie besser die *plain* Version.
 ::::
 
 # Einführung und Ziele {#section-introduction-and-goals}
@@ -781,7 +781,7 @@ Grundlage für die innere Qualität Ihrer Systeme.
 Dieser Abschnitt im Template ist der richtige Ort für die konsistente
 Behandlung solcher Themen.
 
-Viele solche Konzepte beeinflussen oder beziehen sich auf mehrerer Ihrer
+Viele solche Konzepte beeinflussen oder beziehen sich auf mehrere Ihrer
 Bausteine.
 
 ::: formalpara-title
@@ -967,7 +967,7 @@ Zwei Arten von Szenarien finden wir besonders nützlich:
     Szenarien zur Beschreibung von Effizienz oder Performance. Beispiel:
     Das System beantwortet eine Benutzeranfrage innerhalb einer Sekunde.
 
--   Änderungsszenarien\_ beschreiben die gewünschte Wirkung einer
+-   Änderungsszenarien beschreiben die gewünschte Wirkung einer
     Änderung oder Erweiterung des Systems oder seiner unmittelbaren
     Umgebung. Beispiel: Zusätzliche Funktionalität wird implementiert
     oder Anforderungen an ein Qualitätsmerkmal ändern sich, und der
@@ -1100,5 +1100,5 @@ online-Dokumentation (auf Englisch!).
 +======================+===============================================+
 | *\<Begriff-1\>*      | *\<Definition-1\>*                            |
 +----------------------+-----------------------------------------------+
-| *\<Begriff-2*        | *\<Definition-2\>*                            |
+| *\<Begriff-2\>*      | *\<Definition-2\>*                            |
 +----------------------+-----------------------------------------------+
